@@ -7,5 +7,6 @@ namespace GCP_Test.Models
 {
     public class Test
     {
+        public int MyProperty { get; set; }
     }
 }
