@@ -435,6 +435,11 @@ namespace GCP_Test.Controllers
             base.Dispose(disposing);
         }
 
+        public int addNum(int a,int b) {
+
+            return a + b;
+        }
+
         #region Helpers
         // Used for XSRF protection when adding external logins
         private const string XsrfKey = "XsrfId";

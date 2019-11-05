@@ -16,8 +16,7 @@ namespace GCP_Test.Controllers
         }
         public void pullGit()
         {
-            string command = @"/test.cmd";
-            Process.Start(command);
+            //string command = @"/test.cmd";  
         }
     }
 }
