@@ -13,8 +13,7 @@ namespace GCP_Test.Models
 
         [Display(Name = "Hometown")]
         public string Hometown { get; set; }
-        [Display(Name = "Hometown1")]
-        public string Hometown1 { get; set; }
+
     }
 
     public class ExternalLoginListViewModel
