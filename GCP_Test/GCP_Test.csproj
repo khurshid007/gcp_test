@@ -376,7 +376,6 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="cloudbuild.yaml" />
     <Content Include="bin\ApplicationInsights.config" />
     <Content Include="bin\GCP_Test.dll.config" />
     <Content Include="bin\roslyn\Microsoft.CSharp.Core.targets" />
